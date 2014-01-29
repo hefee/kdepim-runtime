@@ -1,10 +1,9 @@
-kdepim-runtime (4:4.11.3-1) unstable; urgency=low
+kdepim-runtime (4:4.11.5+really4.11.2-91r0) UNRELEASED; urgency=low
 
-  * New upstream release.
-  * Update build dependencies.
-  * Refresh patches.
+  * Bump KDE SC build dependencies.
+  * Build depend on akonadi-server (>= 1.10.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 10 Nov 2013 00:48:22 +0100
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Mon, 07 Oct 2013 16:23:39 +0200
 
 kdepim-runtime (4:4.11.2-2) experimental; urgency=low
 
